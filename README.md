@@ -55,9 +55,15 @@ The dataset used is **Fashion-MNIST**, which contains 28×28 grayscale images ac
 
 ---
 
-##  Tech Stack
-- Python
-- TensorFlow / Keras
-- NumPy
-- Matplotlib
-- Scikit-learn
+## 💼 Impact
+
+PixelSense demonstrates the effectiveness of deep learning techniques in solving real-world image classification problems. By comparing a baseline Artificial Neural Network (ANN) with a Convolutional Neural Network (CNN), the project highlights the importance of spatial feature learning in computer vision tasks.
+
+The project delivers the following impact:
+- Shows how CNNs significantly outperform traditional ANNs for image-based classification
+- Provides a clear, practical understanding of spatial feature extraction using convolution and pooling layers
+- Demonstrates an end-to-end deep learning workflow, from data preprocessing to model evaluation
+- Enables accurate classification of fashion apparel images, which is directly applicable to retail and e-commerce domains
+- Serves as a strong foundational project for more advanced computer vision applications
+
+Overall, PixelSense illustrates how deep learning models can effectively learn visual patterns from raw pixel data and supports data-driven decision-making in image recognition systems.
